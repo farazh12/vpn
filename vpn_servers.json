@@ -1,0 +1,34 @@
+{
+  "ads":"false",
+  
+ "appId": "ca-app-pub-3940256099942544~3347511713",
+  "bannerId": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+
+  "update":[{
+    "version":"1.1",
+    "title":"",
+    "description":"New VPN Server",
+    "size":"1MB"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.insta.client"},
+    {"id":2, "app":"com.facebook.client"}
+  ],
+ "free":[
+    {"id":0, "file":0, "city":"London","country":"England","image":"singapore","ip":"219.100.37.191","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Johannesburg","country":"Afrika","image":"russia","ip":"219.100.37.191","active":"true","signal":"a"},
+	  {"id":2, "file":0, "city":"Nuernberg","country":"Deutschland","image":"germany","ip":"219.100.37.191","active":"true","signal":"a"},
+        
+        {"id":3, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"219.100.37.191","active":"true","signal":"a"},
+        
+        {"id":4, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"219.100.37.191","active":"true","signal":"a"},
+        {"id":5, "file":0, "city":"Bangkok","country":"United States","image":"thailand","ip":"219.100.37.191","active":"true","signal":"a"},
+        
+        {"id":6, "file":0, "city":"London","country":"United States","image":"unitedkingdom","ip":"219.100.37.191","active":"true","signal":"a"},
+        
+        {"id":7, "file":0, "city":"Singapore","country":"United States","image":"singapore","ip":"219.100.37.191","active":"true","signal":"a"},
+        {"id":8, "file":0, "city":"Sydney","country":"United States","image":"australia","ip":"219.100.37.191","active":"true","signal":"a"}
+  ]
+}
