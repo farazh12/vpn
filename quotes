@@ -1,0 +1,20 @@
+{
+  "isSuccessful":true,
+  "quotes":[
+  {
+      "id":1,
+      "quote":"Don't cry because it's over, smile because it happened",
+      "author":"Dev Faraz",
+      "thumbnail":"null",
+      "created_at":"2022-11-25",
+      "updated_at":"2022-11-25"
+  },{
+      "id":1,
+      "quote":"Don't cry because it's over, smile because it happened",
+      "author":"Dev Faraz",
+      "thumbnail":"null",
+      "created_at":"2022-11-25",
+      "updated_at":"2022-11-25"
+  }
+  ]
+}
